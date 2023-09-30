@@ -35,6 +35,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aviale&theme=windows-dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=blue_navy)
+
 <!--
 **aviale/aviale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
